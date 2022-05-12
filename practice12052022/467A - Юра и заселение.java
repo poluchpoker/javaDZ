@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class YuraAndObzhaga {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int k = scanner.nextInt();
